@@ -1,0 +1,5 @@
+name: SethGen
+version: 1.0.0
+description: Generates SethBling's new map!
+main: org.zonedabone.skygridmaker.SkyGridMaker
+load: startup
